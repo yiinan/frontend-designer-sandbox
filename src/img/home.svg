@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>home</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-919.000000, -14.000000)">
+            <g id="header">
+                <g id="home" transform="translate(888.000000, 0.000000)">
+                    <g id="account" transform="translate(13.000000, 14.000000)">
+                        <g id="home" transform="translate(18.000000, 0.000000)">
+                            <ellipse id="Oval" stroke="#FFFFFF" cx="8.5" cy="8" rx="7.875" ry="7.5"></ellipse>
+                            <path d="M12.8753387,13.6535578 C12.8753387,11.946494 10.4356043,9.58333333 8.64318722,9.58333333 C6.85077018,9.58333333 4.13017078,11.946494 4.13017078,13.6535578 C4.13017078,15.3606217 12.8753387,15.3606217 12.8753387,13.6535578 Z" id="Oval-2-Copy" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <ellipse id="Oval-2" fill="#FFFFFF" fill-rule="nonzero" cx="8.5" cy="7.33333333" rx="3.5" ry="3.33333333"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

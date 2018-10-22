@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>cart copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-985.000000, -14.000000)">
+            <g id="header">
+                <g id="cart" transform="translate(968.000000, 0.000000)">
+                    <g id="cart-copy" transform="translate(17.000000, 15.000000)">
+                        <polyline id="Path-2" stroke="#FFFFFF" points="0.232867758 0.295938353 1.63986554 0.295938353 4.32646819 6.45127426"></polyline>
+                        <ellipse id="Oval-4" fill="#FFFFFF" fill-rule="nonzero" cx="7.53991098" cy="13.5" rx="1.53991098" ry="1.5"></ellipse>
+                        <ellipse id="Oval-4-Copy" fill="#FFFFFF" fill-rule="nonzero" cx="13.539911" cy="13.5" rx="1.53991098" ry="1.5"></ellipse>
+                        <path d="M3.69190759,5 L6.47184925,11.398484 C6.63053452,11.7637238 6.9908021,12 7.38902451,12 L13.9294139,12 C14.3551517,12 14.7342106,11.7304484 14.8739842,11.3283091 L17.0735465,5 L3.69190759,5 Z" id="Path-3" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

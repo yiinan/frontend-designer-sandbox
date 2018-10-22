@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="26px" viewBox="0 0 28 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-850.000000, -583.000000)" stroke="#008BE5" stroke-width="2">
+            <g id="info" transform="translate(536.000000, 168.000000)">
+                <g id="buy-&amp;-fav-btn" transform="translate(0.000000, 403.000000)">
+                    <g id="favorite" transform="translate(304.000000, 0.000000)">
+                        <path d="M13.9705627,31.9705627 L27.9705627,31.9705627 C31.836556,31.9705627 34.9705627,28.836556 34.9705627,24.9705627 C34.9705627,21.1045695 31.836556,17.9705627 27.9705627,17.9705627 L26.9705627,17.9705627 L26.9705627,16.9705627 C26.9705627,13.1045695 23.836556,9.97056275 19.9705627,9.97056275 C16.1045695,9.97056275 12.9705627,13.1045695 12.9705627,16.9705627 L12.9705627,30.9705627 C12.9705627,31.5228475 13.418278,31.9705627 13.9705627,31.9705627 Z" id="Combined-Shape" transform="translate(23.970563, 20.970563) rotate(-45.000000) translate(-23.970563, -20.970563) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

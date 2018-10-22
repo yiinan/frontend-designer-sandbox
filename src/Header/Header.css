@@ -1,0 +1,148 @@
+.header {
+	height: 56px;
+	width: 100%;
+	background: #008BE5;
+	display: flex;
+	font-family: "Open Sans", sans-serif;
+	position: fixed;
+	_position:absolute;
+	top: 0px;
+	z-index: 100;
+}
+a {
+	text-decoration-line: none;
+}
+.headerLogoCon{
+	height: 100%;
+	width: 56px;
+	/*margin-left: 16px;*/
+}
+.headerLogo{
+	height: 40px;
+	margin-top: 8px;
+	margin-left: 8px;
+}
+.searchBar{
+	height: 40px;
+	width: 35%;
+	background: white;
+	margin-top: 8px;
+	margin-left: 40px;
+	border-radius: 7px;
+}
+.searchIcon{
+	width: 40px;
+	height: 40px;
+	float: right;
+	padding-top: 10px;
+}
+
+.buyOrSell{
+	display: flex;
+	margin-left: 40px;
+}
+.buyOrSell a:hover{
+	background: rgba(255,255,255,0.36);
+}
+.tabSelected{
+	background: rgba(255,255,255,0.36);
+}
+.tabTitle{
+	display: flex;
+	justify-content: center;
+	margin: 18px;
+	font-family: "Open Sans", sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+}
+.tabTitleMobile{
+	display: none;
+
+}
+.tabUnelected{
+
+}
+
+.account{
+	margin-left: 60px;
+	display: flex;
+	justify-content: flex-end;
+}
+.myAccount{
+	margin-left: 24px;
+}
+.accountIcon{
+	margin-top: 10px;
+	text-align: center;
+}
+.accountTitle{
+	margin: 0 auto;
+	font-size: 10px;
+	color: white;
+	text-align: center;
+}
+.cart{
+	width: 56px;
+}
+
+@media (min-width: 1025px){
+	.account{
+		margin-left: 150px;
+	}
+}
+
+@media (max-width: 768px){
+	.searchBar{
+		display: none;
+	}
+	.tabTitle{
+		display: none;
+	}
+	.tabTitleMobile{
+		display: flex;
+		justify-content: center;
+		margin-left: 8px;
+		margin-right: 8px;
+		margin-top: 18px;
+		font-family: "Open Sans", sans-serif;
+		font-size: 15px;
+		font-weight: bold;
+		color: white;
+	}
+	.buyOrSell{
+		margin-left: 16px;
+	}
+	.account{
+		margin-left: 300px;
+	}
+	.accountTitle{
+		display: none;
+	}
+	.accountIcon{
+		margin-top:16px;
+	}
+	.accountIcon img{
+		height: 24px;
+		margin-right: 8px;
+	}
+
+}
+
+@media (max-width: 675px){
+	.account{
+		margin-left: 100px;
+	}
+}
+
+@media (max-width: 425px){
+	.account{
+		margin-left: 20px;
+	}
+}
+
+
+
+
+
+
